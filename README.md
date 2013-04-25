@@ -28,6 +28,11 @@
 * Created admin user (andyosuna)
 * "Fixed" issues with git.
 
+### 09:00-09:25 _2013-04-35_
+
+1. Set up a copy of the site in localhost.
+* Created a branch for the styling (this one will have the local config file).
+
 **Bookmark:** [Final Configuration](http://docs.moodle.org/24/en/Installing_Moodle)
 
 **To Do:** _Inspect and Start styling._
