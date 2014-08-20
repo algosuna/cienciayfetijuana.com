@@ -9,16 +9,16 @@ $CFG->dbname    = 'andrea_moodle';
 $CFG->dbuser    = 'andrea_moodle';
 $CFG->dbpass    = '~mS1aCfR3uD!';
 $CFG->dbpersist =  false;
-$CFG->prefix    = 'md_';
+$CFG->prefix    = 'mdl_';
 
-$CFG->wwwroot   = 'http://localhost/cf-tj';
-$CFG->dirroot   = 'C:\xampp\htdocs\cf-tj';
-$CFG->dataroot  = 'C:\xampp/moodledata';
+$CFG->wwwroot   = 'http://cienciayfetijuana.com';
+$CFG->dirroot   = '/home/andrea/public_html/sites/cienciayfetijuana.com/html';
+$CFG->dataroot  = '/home/andrea/el/md/moodledata';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 00777;  // try 02777 on a server in Safe Mode
 
-$CFG->passwordsaltmain = 'vDAa%nrGd{kyrpd0P3&3J()]o!';
+$CFG->passwordsaltmain = '#<h2[U^Tj9zuEtedU^1}vN+JZN0y.EW5';
 
 require_once("$CFG->dirroot/lib/setup.php");
 // MAKE SURE WHEN YOU EDIT THIS FILE THAT THERE ARE NO SPACES, BLANK LINES,

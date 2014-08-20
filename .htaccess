@@ -1,0 +1,11 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^cienciayfetijuana\.video\-game\-history\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.cienciayfetijuana\.video\-game\-history\.com$
+RewriteRule ^/?$ "http\:\/\/cienciayfetijuana\.com" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^cf\-tj\.andyosuna\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.cf\-tj\.andyosuna\.com$
+RewriteRule ^/?$ "http\:\/\/cienciayfetijuana\.com" [R=301,L]
+
