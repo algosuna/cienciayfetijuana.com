@@ -1,0 +1,2 @@
+https://docs.moodle.org/dev/Creating_a_theme
+https://docs.moodle.org/dev/Theme_development
